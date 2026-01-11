@@ -1,0 +1,6 @@
+names:
+- Player
+- Ball
+nc: 2
+train: /content/dataset/train/images
+val: /content/dataset/valid/images
