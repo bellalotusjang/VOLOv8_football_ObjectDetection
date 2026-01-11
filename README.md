@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![YOLOv8](https://img.shields.io/badge/Model-YOLOv8n-green)
 ![YOLOv8](https://img.shields.io/badge/Model-YOLOv8s-yellow)
 ![GPU](https://img.shields.io/badge/Environment-T4_GPU-orange)
