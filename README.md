@@ -1,6 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
-![YOLOv8](https://img.shields.io/badge/Model-YOLOv8n-green)
-![YOLOv8](https://img.shields.io/badge/Model-YOLOv8s-yellow)
+![YOLOv8](https://img.shields.io/badge/Model-YOLOv8n-YOLOv8s-green)
 ![GPU](https://img.shields.io/badge/Environment-T4_GPU-orange)
 
 # ⚽ YOLO 축구 선수 및 공 탐지 프로젝트
